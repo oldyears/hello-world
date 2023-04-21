@@ -1,8 +1,6 @@
 # 搜索lab2
 
 Date: April 21, 2023 → April 30, 2023
-Materials: %E6%90%9C%E7%B4%A2lab2%2060728482645d468b94d5ed4068430df9/lab-2.pdf
-Reviewed: No
 Type: Lecture
 
 # 搜索引擎交互设计
@@ -43,9 +41,7 @@ Type: Lecture
 
 以上是搜索引擎交互设计的一些基本要素，设计时应该根据具体需求进行调整和完善。
 
-## 作业要求
-
-![Untitled](%E6%90%9C%E7%B4%A2lab2%2060728482645d468b94d5ed4068430df9/Untitled.png)
+## 错误经验
 
 终于让我知道为什么import sklearn失败了，因为它的全称是scikit-learn，
 
